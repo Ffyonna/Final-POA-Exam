@@ -1,0 +1,2 @@
+timestamp,filename,total_customers,successful,failed,avg_confidence,model_used
+2026-03-16T16:31:30.261012,batch_demo_data.csv,10,10,0,0.8908421456813812,XGBoost
