@@ -8,3 +8,4 @@ shap
 lime
 python-multipart
 statsmodels
+xgboost
